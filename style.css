@@ -1,0 +1,36 @@
+.top {
+	height: 150px;
+	width:100%;
+	background-color: grey;
+}
+.bottom {
+	height: 500px;
+	width: 100%;
+}
+.right {
+	height: 500px;
+	width: 10%;
+	background-color: lightgrey;
+	float: left;
+}
+.middle {
+	height: 100%;
+	width: 80%;
+	float: left;
+}
+.tall {
+	height: 80%;
+	width: 100%;
+	background-color: #efefef;
+}
+.small {
+	height: 100px;
+	width: 100%;
+	background-color: black;
+}
+.left {
+	height: 500px;
+	width: 10%;
+	background-color: lightgrey;
+	float: left;
+}
